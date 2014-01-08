@@ -1,4 +1,4 @@
-smaple
+sample
 ======
 
 javascript
@@ -25,7 +25,7 @@ content
 `code`
 
 
-```javascript
+```vascript
 funtion()[
 
 ]
@@ -37,6 +37,6 @@ public class A(){
         System.out.println("hello")
         }
     }
-
+[link](http://www.google.com)
 
 [link](http://www.naver.com)
