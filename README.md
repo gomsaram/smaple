@@ -31,7 +31,12 @@ funtion()[
 ]
 ```
 
-
+```java
+public class A(){
+        public staticc void main(String... args){
+        System.out.println("hello")
+        }
+    }
 
 
 [link](http://www.naver.com)
